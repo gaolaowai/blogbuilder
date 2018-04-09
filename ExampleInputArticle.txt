@@ -1,0 +1,16 @@
+TITLE: How to format an input article
+
+METATAGS: technology, comics, foodstuff
+
+DATE: 3/25/2018
+
+<h1>This is my article title here.</h1>
+<p>This is my first paragraph. It's marked off using the p tag.</p>
+
+<p>Here's a second paragraph, although its a single sentence...</p>
+<p>I can make text <i>italicized</i>, <b>bolded</b>, or <s>struck-out</s> as needed by just using html markup.</p>
+<p><img href="some image path" description="An image is placed here."></p>
+<!-- you can include comments as well to, for example, outline what you want your article to cover -->
+<p>In the end, just some simple HTML tags are all that is needed to create your article. The rest of the HTML document structure will be built automatically for you.<br>This simplifies things a bit, at least for me.</p>
+<p>Good luck!</p>
+</div>
