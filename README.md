@@ -1,4 +1,4 @@
-#BlogBuilder.py -- Static Blog Website Generator
+# BlogBuilder.py -- Static Blog Website Generator
 
 This repo is to hold/share code which I use for generating/updating my blog for my business website. It doesn't include any CSS, as the script focuses solely on the HTML structure. Styling is left to the end-user.
 
